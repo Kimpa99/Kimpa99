@@ -1,6 +1,5 @@
 ## Hola, soy Obed Lotina
 
-<!--
 Soy estudiante de Ingeneria en Sistemas Computacionales, interesado en el desarrollo de software , redes y tecnologia.
 
 Tecnologias que uso o estoy aprendiendo 
