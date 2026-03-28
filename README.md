@@ -1,16 +1,16 @@
-## Hi there 👋
+## Hola, soy Obed Lotina
 
 <!--
-**Kimpa99/Kimpa99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy estudiante de Ingeneria en Sistemas Computacionales, interesado en el desarrollo de software , redes y tecnologia.
 
-Here are some ideas to get you started:
+Tecnologias que uso o estoy aprendiendo 
+Python 
+Linux
+Redes 
+Git y github
+Ciber Seguridad 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Mis metas academicas 
+Mi opjetivo es desarrollar habiliades solidas en programacion, redes y administracion de sistemas, para convertirme en un profesional capaz de resolver problemas reales mediante la tecnologia.
+
+Gracias por visitar mi perfil 
